@@ -3,7 +3,7 @@ I am a third-year student at Bangladesh University of Business and Technology (B
 I am an open-source Contributor and a web development addict.
 
 <!--
-**hrshammo/hrshammo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Khaledmahmud821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
